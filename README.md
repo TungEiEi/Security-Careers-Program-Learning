@@ -1,5 +1,5 @@
 # Security-Careers-Program-Learning
-NextGen Security Careers: Pathway for Fresh Graduates to Become Security Engineers in Industry หลักสูตรวิศวกรความมั่นคงปลอดภัย (Security Engineer) by ARIT.
+NextGen Security Careers หลักสูตรวิศวกรความมั่นคงปลอดภัย (Security Engineer) by ARIT.
 # 🚀 NextGen Security Careers Program - Cybersecurity Learning Journey
 
 This repository contains all my personal notes, lecture materials (PDFs), code, and assignments from the 10-module **NextGen Security Careers Program** conducted by ARIT.
